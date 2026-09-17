@@ -1,9 +1,6 @@
 # Twitter-Bot
 #
-#
-#
-#
-#Objectives
+# Objectives
 # 1.
 # 2.
 # 3.
